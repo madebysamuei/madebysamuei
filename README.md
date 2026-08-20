@@ -117,3 +117,12 @@
 <br clear="all">
 
 <hr>
+<br>
+
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/madebysamuel/madebysamuel/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
