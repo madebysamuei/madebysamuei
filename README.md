@@ -1,16 +1,18 @@
-<img 
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-  alt="illustration of a computer" 
-  min-width="400px" 
-  max-width="400px" 
-  width="400px" 
-  align="right" 
+<img
+  src="https://github.com/user-attachments/assets/75e2331a-1595-460a-be96-92bebde63f54"
+  alt="Illustration of a computer"
+  width="400"
+  align="right" vspace="40"
 />
 
-<h1 align="left">Hi! I'm <code>&lt;/Samuel&gt;</code></h1>
+<h1 align="left">
+  Hi! I'm <code>&lt;/Samuel&gt;</code>
+</h1>
 
 <p align="left">
   I'm a Software, Web & Mobile App Developer and Graphic Designer passionate about turning ideas into creative digital experiences. I enjoy building, designing, and learning new technologies while sharing my personal and academic projects along the way.
+</p>
+
 <p align="left">
   🛠️ <strong>Languages I work with:</strong>
 </p>
@@ -64,14 +66,13 @@
     alt="VS Code" 
   />
   <img 
-  src="https://img.shields.io/badge/PHOTOSHOP-0D47A1?style=for-the-badge&logo=adobephotoshop&logoColor=white" 
-  alt="PHOTOSHOP" 
-/>
-
-<img 
-  src="https://img.shields.io/badge/ILLUSTRATOR-c27808?style=for-the-badge&logo=adobeillustrator&logoColor=white" 
-  alt="ILLUSTRATOR" 
-/>
+    src="https://img.shields.io/badge/PHOTOSHOP-0D47A1?style=for-the-badge&logo=adobephotoshop&logoColor=white" 
+    alt="Photoshop" 
+  />
+  <img 
+    src="https://img.shields.io/badge/ILLUSTRATOR-c27808?style=for-the-badge&logo=adobeillustrator&logoColor=white" 
+    alt="Illustrator" 
+  />
 </p>
 
 <p align="left">
@@ -85,11 +86,11 @@
   />
   <img 
     src="https://img.shields.io/badge/Italian-Basic-green?style=for-the-badge" 
-    alt="Spanish" 
+    alt="Italian" 
   />
   <img 
     src="https://img.shields.io/badge/Spanish-Native-yellow?style=for-the-badge" 
-    alt="Catalan" 
+    alt="Spanish" 
   />
 </p>
 
@@ -104,6 +105,7 @@
       alt="Email" 
     />
   </a>
+
   <a href="https://www.linkedin.com/in/samuel-camacho-30006527a/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -112,5 +114,6 @@
   </a>
 </p>
 
+<br clear="all">
 
-------
+<hr>
