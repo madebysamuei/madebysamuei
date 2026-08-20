@@ -120,9 +120,6 @@
 <br>
 
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/madebysamuel/madebysamuel/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
